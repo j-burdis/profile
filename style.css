@@ -51,6 +51,7 @@ h3{
 
 .centralize {
   margin: 0px auto;
+  text-align: center;
 }
 
 .list-inline > li {
