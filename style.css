@@ -77,6 +77,12 @@ ul {
   margin-top: 30px auto;
 }
 
+.animation {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .card-beige {
